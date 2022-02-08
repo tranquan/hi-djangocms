@@ -1,0 +1,9 @@
+{
+	"django_script": {
+		"prefix": "abd",
+		"body": [
+			"{%  %}"
+		],
+		"description": "Import the server side models"
+	}
+}
